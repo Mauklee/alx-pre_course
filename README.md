@@ -1,1 +1,5 @@
-My first readme
+## My first readme 😄 ##
+``` bash
+git pull origin master
+```
+
